@@ -1,0 +1,6 @@
+export const FilterTypes = {
+  FILTER_ALL: 1,
+  FILTER_ALPHABETICALLY: 2,
+  FILTER_ACTIVE: 3,
+  FILTER_COMPLETED: 4,
+};

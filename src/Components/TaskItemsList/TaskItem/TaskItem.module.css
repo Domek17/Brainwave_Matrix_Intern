@@ -1,0 +1,26 @@
+.todo--list__item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem 0.4rem;
+}
+
+.todo--list__item div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.todo--list__item div input {
+  width: 16.5px;
+  height: 16.5px;
+}
+
+.todo--list__item div span {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.checked {
+  text-decoration: line-through;
+}

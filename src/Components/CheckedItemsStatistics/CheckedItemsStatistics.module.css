@@ -1,0 +1,12 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  border-radius: 7px;
+  padding: 0.6rem 2rem;
+  text-align: center;
+}
+
+.footer p {
+  font-style: italic;
+  margin: 0;
+}

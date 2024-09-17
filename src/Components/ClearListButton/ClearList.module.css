@@ -1,0 +1,14 @@
+.btn--clear__list {
+  background-color: #0d6efd;
+  color: #fff;
+  border: none;
+  font-size: 17px;
+  border-radius: 7px;
+  transition: 0.3s all;
+  padding: 0.4rem 0.8rem;
+  transition: 0.3s all;
+}
+
+.btn--clear__list:hover {
+  background-color: #0a58ca;
+}

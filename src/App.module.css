@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.2;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.todo--container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  width: 30rem;
+  background-color: #ddd;
+  color: #333;
+  padding: 2rem;
+}
